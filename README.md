@@ -19,6 +19,7 @@ python sort.py
 
 - Copies ".png", ".jpg", ".jpeg", ".bmp", ".gif", ".tiff", ".webp" to new folders (Originals wont be changed)
 - Separates RGB, B/W, Sepia
+- Creates a new folder for every resolution
 - Is skipping already existing images
 - User-Friendly GUI: Provides an intuitive interface for configuring and monitoring the process.
 
